@@ -1,0 +1,8 @@
+Model Information:
+* title:	plastic stool
+* source:	https://sketchfab.com/3d-models/plastic-stool-13265cf738dd4484896eb6e26bc52e60
+* author:	Helya (https://sketchfab.com/Helya)
+
+Model License:
+* license type:	see viewerUrl (https://sketchfab.com/3d-models/plastic-stool-13265cf738dd4484896eb6e26bc52e60)
+* requirements:	see https://sketchfab.com/3d-models/plastic-stool-13265cf738dd4484896eb6e26bc52e60

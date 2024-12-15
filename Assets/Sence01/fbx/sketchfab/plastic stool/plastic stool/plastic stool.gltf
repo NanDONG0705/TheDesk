@@ -1,0 +1,252 @@
+{
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5123,
+            "count": 915,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 520,
+            "max": [
+                0.9892755746841431,
+                0.9980038404464722,
+                0.9883291721343994
+            ],
+            "min": [
+                -0.9887563586235046,
+                -0.9990071058273315,
+                -0.9883291721343994
+            ],
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 520,
+            "max": [
+                0.9954733848571777,
+                0.9871677756309509
+            ],
+            "min": [
+                0.010521999560296535,
+                0.017713800072669983
+            ],
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 520,
+            "max": [
+                63.23825454711914,
+                151.14645385742188,
+                63.23825454711914
+            ],
+            "min": [
+                -63.23830032348633,
+                -58.63420104980469,
+                -63.23830032348633
+            ],
+            "type": "VEC3",
+            "byteOffset": 6240
+        }
+    ],
+    "asset": {
+        "extras": {
+            "author": "Helya (https://sketchfab.com/Helya)",
+            "license": "see viewerUrl (https://sketchfab.com/3d-models/plastic-stool-13265cf738dd4484896eb6e26bc52e60)",
+            "source": "https://sketchfab.com/3d-models/plastic-stool-13265cf738dd4484896eb6e26bc52e60",
+            "title": "plastic stool"
+        },
+        "generator": "OpenSceneGraph",
+        "version": "2.0"
+    },
+    "buffers": [
+        {
+            "byteLength": 18472,
+            "uri": "plastic stool.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 1832,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1832,
+            "byteStride": 12,
+            "byteLength": 12480,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 14312,
+            "byteStride": 8,
+            "byteLength": 4160,
+            "target": 34962
+        }
+    ],
+    "images": [
+        {
+            "uri": "images/Default_Material_Base_color.png"
+        },
+        {
+            "uri": "images/Default_Material_Normal_OpenGL.png"
+        }
+    ],
+    "materials": [
+        {
+            "doubleSided": true,
+            "name": "Default_Material",
+            "normalTexture": {
+                "texCoord": 0,
+                "index": 1
+            },
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "texCoord": 0,
+                    "index": 0
+                }
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "pCube63_Default_Material_0",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2,
+                        "POSITION": 3
+                    },
+                    "indices": 0,
+                    "material": 0,
+                    "mode": 5
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "children": [
+                1
+            ],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0.30901700258255005,
+                -0.9510565400123596,
+                0,
+                0,
+                0.9510565400123596,
+                0.30901700258255005,
+                0,
+                1.1069457883650102e-7,
+                -0.4429493248462677,
+                -1.885945200920105,
+                1
+            ],
+            "name": "Sketchfab_model"
+        },
+        {
+            "children": [
+                2
+            ],
+            "matrix": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1,
+                0,
+                0,
+                -1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "name": "a21baa7238cc4ff2b7a4846d9b1fedcc.fbx"
+        },
+        {
+            "children": [
+                3
+            ],
+            "name": "RootNode"
+        },
+        {
+            "children": [
+                4
+            ],
+            "matrix": [
+                0.00483632,
+                0,
+                0,
+                0,
+                0,
+                0.00483632,
+                0,
+                0,
+                0,
+                0,
+                0.00483632,
+                0,
+                0,
+                0.242035,
+                0,
+                1
+            ],
+            "name": "pCube63"
+        },
+        {
+            "children": [
+                5
+            ],
+            "name": "pCube63"
+        },
+        {
+            "mesh": 0,
+            "name": "pCube63_Default_Material_0"
+        }
+    ],
+    "samplers": [
+        {
+            "magFilter": 9729,
+            "minFilter": 9987,
+            "wrapS": 10497,
+            "wrapT": 10497
+        }
+    ],
+    "scene": 0,
+    "scenes": [
+        {
+            "name": "Scene",
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "textures": [
+        {
+            "sampler": 0,
+            "source": 0
+        },
+        {
+            "sampler": 0,
+            "source": 1
+        }
+    ]
+}

@@ -1,0 +1,256 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# 创建的文件:13.10.2023 16:11:22
+
+newmtl Lime__yinglibiaoxian0002
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0001.jpg
+	map_Kd C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0001.jpg
+
+newmtl Lime__yinglibiaoxian0003
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0006.jpg
+	map_Kd C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0006.jpg
+
+newmtl Lime__yinglibiaoxian0004
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0006.jpg
+	map_Kd C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0006.jpg
+
+newmtl Lime__yinglibiaoxian0005
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0007.jpg
+	map_Kd C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0007.jpg
+
+newmtl Lime__yinglibiaoxian0006
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0007.jpg
+	map_Kd C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0007.jpg
+
+newmtl Lime__yinglibiaoxian0007
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0008.jpg
+	map_Kd C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0008.jpg
+
+newmtl Lime__yinglibiaoxian0008
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0008.jpg
+	map_Kd C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0008.jpg
+
+newmtl Lime__yinglibiaoxian0009
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0004.jpg
+	map_Kd C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0004.jpg
+
+newmtl Lime__yinglibiaoxian0010
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0005.jpg
+	map_Kd C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0005.jpg
+
+newmtl Lime__yinglibiaoxian0011
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0003.jpg
+	map_Kd C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0003.jpg
+
+newmtl Lime__yinglibiaoxian0012
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0003.jpg
+	map_Kd C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0003.jpg
+
+newmtl Lime__yinglibiaoxian0013
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0003.jpg
+	map_Kd C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0003.jpg
+
+newmtl Lime__yinglibiaoxian0014
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0003.jpg
+	map_Kd C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0003.jpg
+
+newmtl Lime__yinglibiaoxian0015
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0002.jpg
+	map_Kd C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0002.jpg
+
+newmtl Lime__yinglibiaoxian0016
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0002.jpg
+	map_Kd C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0002.jpg
+
+newmtl Lime__yinglibiaoxian0017
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0002.jpg
+	map_Kd C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0002.jpg
+
+newmtl Lime__yinglibiaoxian0018
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0002.jpg
+	map_Kd C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0002.jpg
+
+newmtl Lime__yinglibiaoxian0019
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.5880 0.5880 0.5880
+	Kd 0.8000 0.8000 0.8000
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0009.jpg
+	map_Kd C:\Users\Administrator\Desktop\69\2\maps\Lime._yinglibiaoxian0009.jpg
+	map_bump C:\Users\Administrator\Desktop\69\2\maps\Lime._Bump_yinglibiaoxian0011.jpg
+	bump C:\Users\Administrator\Desktop\69\2\maps\Lime._Bump_yinglibiaoxian0011.jpg
