@@ -12,3 +12,4 @@ game[[:space:]]chair.fbx filter=lfs diff=lfs merge=lfs -text
 china-teabox.tif.png filter=lfs diff=lfs merge=lfs -text
 christian[[:space:]]Weyrich[[:space:]]\#2.obj filter=lfs diff=lfs merge=lfs -text
 Basketball_Normal_OpenGL.png filter=lfs diff=lfs merge=lfs -text
+rusty-water-bowl.blend filter=lfs diff=lfs merge=lfs -text
